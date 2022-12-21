@@ -1,2 +1,4 @@
 ## https://exercism.org/tracks/javascript
-# Solved Exercise
+- Solved Exercise
+- All answers
+- Exercism JavaScript solutions
