@@ -5,7 +5,6 @@ export function countNucleotides(strand) {
         "G" : 0,
         "T" : 0
     };
-    let result = '';
     for(let i = 0; i < strand.length; i++){
         if(strand[i] === "A") STRAND_OBJECT["A"] += 1;
         else if(strand[i] === "C") STRAND_OBJECT["C"] += 1;
